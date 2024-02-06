@@ -2,6 +2,6 @@
 
 
 NAME         ROLL NO     class     marks
-Ankit        47
-Github username: ankitpartap (Please do follow)
+ranbir        42
+Github username: ranbir2002 (Please do follow)
 
