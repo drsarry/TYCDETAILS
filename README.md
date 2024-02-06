@@ -1,3 +1,3 @@
 # TYCDETAILS
 
-NAME         ROLL NO
+NAME  tania       ROLL NO48
